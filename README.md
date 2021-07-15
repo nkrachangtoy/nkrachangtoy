@@ -9,7 +9,7 @@
 
 ### 💻 Technologies & Tools
 
-- Languages: HTML5, CSS3, SASS, JavaScript, C#, Python
+- Languages: HTML5, CSS3 and SASS, JavaScript, C#, Python
 - Frontend: React, React Native, DOM
 - Backend: Node.js, Express.js, ASP&#46;NET
 - Database: MS SQL, MySQL, MongoDB, DynamoDB, Redis
