@@ -1,7 +1,5 @@
 ### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Nusorn
 
-<br>
-
 ### 👨🏻‍💻 About me
 
 - I'm a Full-Stack Developer
