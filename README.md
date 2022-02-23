@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 About me
 
 - I'm a Full-Stack Developer
-- I'm from Thailand 🇹🇭 , currently living in Vancouver, BC, Canada 🇨🇦
+- I'm located in Vancouver, BC, Canada 🇨🇦
 
 ### 💻 Technologies & Tools
 
